@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608823906194",
+    "project_id": "aiqraft-f4cce",
+    "storage_bucket": "aiqraft-f4cce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608823906194:android:179e23f2746af2790bbb4b",
+        "android_client_info": {
+          "package_name": "com.example.aiqraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAsUv0ts5Z5e2fyybvkcj7jkkEnheQ8k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608823906194:android:1c4786d81ee95c170bbb4b",
+        "android_client_info": {
+          "package_name": "com.example.aiqraft10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAsUv0ts5Z5e2fyybvkcj7jkkEnheQ8k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
