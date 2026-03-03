@@ -10,8 +10,8 @@
 
 Unlike conventional quiz apps with static question banks, AIQraft uses the Perplexity AI API to create unique, context-aware questions in real-time, providing an engaging and personalized learning experience.
 
-![First Image](https://imgur.com/hUIA9Pv)
-![Second Image](https://imgur.com/TSOzNCs)
+![First Image](https://imgur.com/hUIA9Pv.jpg)
+![Second Image](https://imgur.com/TSOzNCs.jpg)
 
 ##  Key Features
 
